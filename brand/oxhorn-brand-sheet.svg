@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 900">
+  <defs><path id="mark" d="M 0 -80 L -80 8 C -98 10 -112 2 -122 -14 C -132 -32 -135 -54 -130 -74 C -125 -52 -119 -34 -108 -20 C -97 -6 -85 3 -68 6 L -62 20 L 0 -52 Z M 0 -80 L 80 8 C 98 10 112 2 122 -14 C 132 -32 135 -54 130 -74 C 125 -52 119 -34 108 -20 C 97 -6 85 3 68 6 L 62 20 L 0 -52 Z M -80 44 H 80 V 66 H -80 Z"/><path id="keystone" d="M 0 -122 L 14 -106 L 0 -90 L -14 -106 Z"/></defs>
+  <rect x="0" y="0" width="600" height="450" fill="#F1EBDD"/>
+  <g transform="translate(120 225) scale(0.6)">
+    <use xlink:href="#mark" fill="#2A2926"/>
+    <use xlink:href="#keystone" fill="#B98A2F"/>
+  </g>
+  <g font-family="Georgia, &#39;Times New Roman&#39;, serif">
+    <text x="235" y="215" font-size="38" font-weight="bold" letter-spacing="2" fill="#2A2926">CM</text>
+    <text x="322" y="215" font-size="38" font-weight="bold" letter-spacing="2" fill="#76302C">OXHORN</text>
+    <line x1="237" y1="234" x2="520" y2="234" stroke="#B98A2F" stroke-width="1.5"/>
+    <text x="237" y="258" font-size="13" font-weight="bold" letter-spacing="4" fill="#2A2926">CONSTRUCTION COMPANY</text>
+  </g>
+  <rect x="600" y="0" width="600" height="450" fill="#2A2926"/>
+  <g transform="translate(900 205) scale(0.82)">
+    <use xlink:href="#mark" fill="#F1EBDD"/>
+    <use xlink:href="#keystone" fill="#B98A2F"/>
+  </g>
+  <g font-family="Georgia, &#39;Times New Roman&#39;, serif">
+    <text x="832" y="345" font-size="36" font-weight="bold" letter-spacing="2" text-anchor="end" fill="#F1EBDD">CM</text>
+    <text x="844" y="345" font-size="36" font-weight="bold" letter-spacing="2" fill="#B98A2F">OXHORN</text>
+    <text x="900" y="380" font-size="13" font-weight="bold" letter-spacing="4.5" text-anchor="middle" fill="#F1EBDD">CONSTRUCTION COMPANY</text>
+  </g>
+  <rect x="0" y="450" width="600" height="450" fill="#76302C"/>
+  <g transform="translate(300 700) scale(1.0)">
+    <use xlink:href="#mark" fill="#F1EBDD"/>
+    <use xlink:href="#keystone" fill="#B98A2F"/>
+  </g>
+  <rect x="600" y="450" width="600" height="450" fill="#FFFFFF"/>
+  <text x="660" y="535" font-family="Georgia, &#39;Times New Roman&#39;, serif" font-size="24" font-weight="bold" letter-spacing="3" fill="#2A2926">PALETTE</text>
+  <g font-family="Arial, sans-serif" font-size="16" fill="#2A2926">
+    <rect x="660" y="565" width="110" height="110" fill="#2A2926"/>
+    <text x="660" y="700">Iron</text>
+    <text x="660" y="720" fill="#8E8C88">#2A2926</text>
+    <rect x="790" y="565" width="110" height="110" fill="#76302C"/>
+    <text x="790" y="700">Oxblood</text>
+    <text x="790" y="720" fill="#8E8C88">#76302C</text>
+    <rect x="920" y="565" width="110" height="110" fill="#B98A2F"/>
+    <text x="920" y="700">Brass</text>
+    <text x="920" y="720" fill="#8E8C88">#B98A2F</text>
+    <rect x="1050" y="565" width="110" height="110" fill="#F1EBDD" stroke="#DDD5C2"/>
+    <text x="1050" y="700">Parchment</text>
+    <text x="1050" y="720" fill="#8E8C88">#F1EBDD</text>
+  </g>
+</svg>
