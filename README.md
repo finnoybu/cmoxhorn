@@ -19,16 +19,44 @@ brand/            Logo files and brand sheet (SVG + PNG)
 
 Each `siteN/` folder contains its own `index.html`, `privacy.html`, `terms.html`, and `cookies.html`, plus an `img/` folder of project illustrations and (sites 1–2) a `hero.png`.
 
-## Palette
+## Palettes
 
-| Name | Hex |
-|------|-----|
-| Charcoal | `#3B3936` |
-| Ochre Gold | `#D89C2A` |
-| Bone White | `#F2EFE9` |
-| Slate | `#8E8C88` |
+The brand palette anchors all three concepts; sites 2 and 3 shift the accent and surface colors to suit their style.
 
-Sites 2 and 3 use palette variations appropriate to their style (safety orange; blueprint blue).
+### Concept 01 — Heritage (`site1/`)
+
+The core CM Oxhorn brand palette.
+
+| Name | Hex | Role |
+|------|-----|------|
+| Charcoal | `#3B3936` | Text, dark sections, footer |
+| Ochre Gold | `#D89C2A` | Accent, CTAs, logo star |
+| Bone White | `#F2EFE9` | Page background, light text |
+| Slate | `#8E8C88` | Muted details, illustrations |
+
+### Concept 02 — Ironworks (`site2/`)
+
+Industrial variant — iron black with a safety-orange accent.
+
+| Name | Hex | Role |
+|------|-----|------|
+| Iron Black | `#232120` | Page background |
+| Gunmetal | `#37342F` | Panels, secondary surfaces |
+| Safety Orange | `#E8662C` | Accent, headlines, CTA band |
+| Steel | `#9AA0A3` | Muted details, illustrations |
+| Off-White | `#EFEDE8` | Light text |
+
+### Concept 03 — Drafting Room (`site3/`)
+
+Editorial variant — ink and paper with a blueprint-blue accent.
+
+| Name | Hex | Role |
+|------|-----|------|
+| Ink | `#2C3640` | Text, dark contact section |
+| Blueprint Blue | `#56789B` | Accent, hairline rules, logo star |
+| Paper White | `#F7F5EF` | Page background |
+| Graphite | `#8C8E94` | Muted details, illustrations |
+| Drafting Tan | `#E9E6DD` | Alternating section background |
 
 ## Notes
 
